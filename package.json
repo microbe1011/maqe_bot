@@ -1,0 +1,13 @@
+{
+  "name": "maqe-bot",
+  "version": "1.0.0",
+  "description": "challenge from https://maqe.github.io/maqe-bot.html",
+  "main": "main.ts",
+  "scripts": {
+    "test": "npx ts-node main.ts RW15RW1 & npx ts-node main.ts W5RW5RW2RW1R & npx ts-node main.ts RRW11RLLW19RRW12LW1 & npx ts-node main.ts LLW100W50RW200W10 & npx ts-node main.ts LLLLLW99RRRRRW88LLLRL & npx ts-node main.ts W55555RW555555W444444W1 & npx ts-node main.ts W55555RW555555W444444W1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "ts-node": "^10.9.2"
+  }
+}
